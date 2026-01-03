@@ -347,4 +347,5 @@ This project demonstrates:
 ---
 
 **GitHub Repository:** https://github.com/Youssef-Fawel/Finance-Accounting-Module-assignment  
+**Live Demo:** https://finance-accounting-module-assignment-dfan-fw5y1ksvk.vercel.app/  
 **Documentation:** See README.md for detailed technical documentation
