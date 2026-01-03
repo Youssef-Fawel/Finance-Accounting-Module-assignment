@@ -346,6 +346,5 @@ This project demonstrates:
 
 ---
 
-**GitHub Repository:** [Your Repository URL]  
-**Live Demo:** [Optional - if deployed]  
+**GitHub Repository:** https://github.com/Youssef-Fawel/Finance-Accounting-Module-assignment  
 **Documentation:** See README.md for detailed technical documentation
